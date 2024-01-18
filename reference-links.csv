@@ -4,3 +4,5 @@ G Suite Access,https://gsuite.google.com,
 Google Account Management,https://myaccount.google.com,
 Google Cloud Home,https://cloud.google.com,
 GCP Consolem,https://console.cloud.google.com,
+*,*,*
+VPC subnet calculator,http://www.subnet-calculator.com,useful tool to calculate subnets
